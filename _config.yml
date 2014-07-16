@@ -82,7 +82,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : httpnlfcampusgithubio
+      short_name : NLFCampus
     livefyre :
       site_id : 123
     intensedebate :
