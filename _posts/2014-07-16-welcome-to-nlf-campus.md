@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome to NLF Campus"
 description: ""
-category: 
-tags: []
+category: NLF
+tags: [fellowship]
 ---
 {% include JB/setup %}

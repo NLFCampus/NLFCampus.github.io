@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: Welcome to New Life Fellowship!
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
@@ -16,9 +16,9 @@ In `_config.yml` remember to specify your own data:
     title : My Blog =)
     
     author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
+      name : NLFCampus
+      email : nlf.campus@gmail.com
+      github : NLFCampus
       twitter : username
 
 The theme should reference these variables whenever needed.
