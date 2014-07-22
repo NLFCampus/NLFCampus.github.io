@@ -6,16 +6,14 @@ tagline: Supporting tagline
 {% include JB/setup %}
 
 <head>
-    <title>Demo 2</title>
     <link href="themes/2/js-image-slider.css" rel="stylesheet" type="text/css" />
     <script src="themes/2/js-image-slider.js" type="text/javascript"></script>
-    <link href="generic.css" rel="stylesheet" type="text/css" />
 </head>
 
 <div id="sliderFrame">
   <div id="slider">
     <a href="http://www.menucool.com/jquery-slider" target="_blank">
-      <img src="images/image-slider-1.jpg" alt="Welcome to jQuery Slider" />
+      <img src="images/chrismas.jpg" alt="Welcome to jQuery Slider" />
     </a>
     <a class="lazyImage" href="images/image-slider-2.jpg" title="Pure Javascript. No jQuery. No Flash.">Pure JavaScript</a>
     <a href="http://www.menucool.com/javascript-image-slider"><b data-src="images/image-slider-3.jpg">Image Slider</b></a>
