@@ -12,8 +12,8 @@ tagline: Supporting tagline
 
 <div id="sliderFrame">
   <div id="slider">
-    <a href="http://www.menucool.com/jquery-slider" target="_blank">
-      <img src="images/chrismas.jpg" alt="Welcome to jQuery Slider" />
+    <a href="https://www.facebook.com/groups/564531400284272/" target="_blank">
+      <img src="images/christmas.jpg" alt="Welcome to jQuery Slider" />
     </a>
     <a class="lazyImage" href="images/image-slider-2.jpg" title="Pure Javascript. No jQuery. No Flash.">Pure JavaScript</a>
     <a href="http://www.menucool.com/javascript-image-slider"><b data-src="images/image-slider-3.jpg">Image Slider</b></a>
