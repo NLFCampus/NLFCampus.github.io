@@ -17,7 +17,7 @@ tagline: Supporting tagline
 	  around Twin-city-Minnesota seeking the truth of Jesus Christ." />
     </a>
     <a class="lazyImage" href="images/Jesus-Cross.jpg" title="Our faith">Our faith</a>
-    <img src="images/bible-study.jpg" alt="#biblestudy" />
+    <img src="images/bible-study.JPG" alt="#biblestudy" />
     <a class="lazyImage" href="images/image-slider-4.jpg" title="">Slide 4</a>
   </div>
   <div id="biblestudy" style="display: none;">
@@ -37,7 +37,7 @@ tagline: Supporting tagline
       <div style="clear:both;"></div>
     </div>
     <div class="thumb">
-      <div class="frame"><img src="images/bible-study-thumb.jpg" /></div>
+      <div class="frame"><img src="images/bible-study-thumb.JPG" /></div>
       <div class="thumb-content"><p>Weekly Bible Study - Join us!</p>Let us study His words together!</div>
       <div style="clear:both;"></div>
     </div>
