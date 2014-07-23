@@ -1,5 +1,5 @@
 var sliderOptions=
-{
+    {
 	sliderId: "slider",
 	startSlide: 0,
 	effect: "1,4,5,6,7,8,9,12,13,14,15,17",
@@ -14,8 +14,9 @@ var sliderOptions=
 	captionEffect: "rotate",
 	thumbnailsWrapperId: "thumbs",
 	m: false,
-	license: "b6t80"
-};
+	//license: "b6t80"
+	license: "b2i38"
+    };
 
 var imageSlider=new mcImgSlider(sliderOptions);
 

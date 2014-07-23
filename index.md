@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to New Life Fellowship!
+title: Welcome to New Life Fellowship - Student Group!
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
@@ -51,7 +51,7 @@ tagline: Supporting tagline
 ###Latest Posts
 
 <ul class="posts">
-  {% for post in site.posts limit: 1 %}
+  {% for post in site.posts limit: 5 %}
   <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
   <span> - {{ post.author }}</span></li>
   {% endfor %}

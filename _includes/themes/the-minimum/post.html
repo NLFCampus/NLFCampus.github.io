@@ -4,7 +4,7 @@
       <header>
 	<div class="unit-head">
 	  <div class="unit-inner unit-head-inner">
-	    <h1 class="h2 entry-title">{{ page.title }}</h1>
+	    <h1 class="h4 entry-title">{{ page.title }}</h1>
 	  </div><!-- unit-inner -->
 	</div><!-- unit-head -->
       </header>
@@ -14,11 +14,11 @@
 	  <p class="date-publish">
 	    Published 
 	    <date class="date-pub" title="{{ page.date | date_to_xmlschema }}" datetime="{{ page.date | date_to_xmlschema }}" pubdate>
-	      <span class="month"><abbr><b><i>{{ page.date | date: '%B' }}</i></b></abbr></span>
-	      <span class="day"><b><i>{{ page.date | date: '%d' }}</i></b></span>
-	      <span class="year"><b><i>{{ page.date | date: '%Y' }}</i></b></span>
+	      <span class="month"><abbr>{{ page.date | date: '%B' }}</abbr></span>
+	      <span class="day">{{ page.date | date: '%d' }}</span>
+	      <span class="year">{{ page.date | date: '%Y' }}</span>
 	    </date>
-	    by <b><i>{{ page.author }}</i></b>
+	    by {{ page.author }}
 	  </p>
 	  <p/>
 	  {{ content }}

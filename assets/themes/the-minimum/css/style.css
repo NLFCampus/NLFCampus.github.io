@@ -215,6 +215,7 @@ pre {
 .the-header .logo {
   font-family: junctionregularRegular, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, "MS PGothic", Osaka, Sans-Serif;
   margin: 0;
+  white-space: nowrap;
 }
 .the-header .logo a:visited {
   color: #2d2d2d;
@@ -228,14 +229,14 @@ pre {
 }
 /* MAIN
 --------------------------------------------------------------------------------- */
-.unit-article header {
+.unit-article header { /* change the margin for the green bar here! */
   background: url('/assets/themes/the-minimum/skin/100-90-5-monochrome.png');
   background-repeat: repeat;
   background-position: 0 0;
   background-color: #BADA55;
-  margin-bottom: 1.625em;
-  padding-top: 1.625em;
-  padding-bottom: 1.625em;
+  margin-bottom: 0.5em;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
 }
 .unit-article header h1 {
   color: #2d2d2d;
@@ -404,8 +405,8 @@ pre {
 .unit-article .unit-foot {
   background: url('/assets/themes/the-minimum/skin/100-90-5-monochrome.png') repeat 0 0 #4d4d4d;
   color: #fafafa;
-  padding-top: 1.625em;
-  padding-bottom: 1.625em;
+  padding-top: 0.625em;
+  padding-bottom: 0.625em;
   position: relative;
 }
 .unit-article .unit-foot a:link {
@@ -510,7 +511,7 @@ pre {
   background-color: rgba(21, 25, 25, 0.8);
   color: #fafafa;
   color: rgba(250, 250, 250, 0.8);
-  padding-bottom: 1.625em;
+  padding-bottom: 0.5em;
 }
 .the-footer a:link {
   color: #99cc99;
@@ -537,10 +538,10 @@ pre {
 .the-footer .license p {
   margin-bottom: 0;
 }
-.the-header .unit-inner {
+.the-header .unit-inner { /* adjust the margin of the header here! */
   width: 15em;
-  margin-top: 1.625em;
-  margin-bottom: 1.625em;
+  margin-top: 1.2em;
+  margin-bottom: 1.2em;
   margin-left: auto;
   margin-right: auto;
 }
@@ -669,12 +670,12 @@ pre {
     width: 26.25em;
   }
   .the-header .logo a {
-    font-size: 42px;
-    line-height: 52px;
+    font-size: 36px; /* change font size of logo here! */
+    line-height: 36px;
     letter-spacing: -1px;
   }
   .the-header .nav-global {
-    margin-top: 1.625em;
+    margin-top: 0.5em; /* change margin between navgations and logo here! */
     letter-spacing: -0.31em;
     *letter-spacing: normal;
     word-spacing: -0.43em;
@@ -705,7 +706,7 @@ pre {
     width: 26.25em;
   }
   .unit-article .unit-foot .gotop {
-    margin-top: 1.625em;
+    margin-top: 0em;
   }
   .layout-page .unit-body .unit-body-inner {
     width: 26.25em;
