@@ -13,27 +13,32 @@ tagline: Supporting tagline
 <div id="sliderFrame">
   <div id="slider">
     <a href="https://www.facebook.com/groups/564531400284272/" target="_blank">
-      <img src="images/christmas.jpg" alt="Welcome to jQuery Slider" />
+      <img src="images/christmas.jpg" alt="We are a group of Chinese students
+	  around Twin-city-Minnesota seeking the truth of Jesus Christ." />
     </a>
-    <a class="lazyImage" href="images/image-slider-2.jpg" title="Pure Javascript. No jQuery. No Flash.">Pure JavaScript</a>
-    <a href="http://www.menucool.com/javascript-image-slider"><b data-src="images/image-slider-3.jpg">Image Slider</b></a>
+    <a class="lazyImage" href="images/Jesus-Cross.jpg" title="Our faith">Our faith</a>
+    <img src="images/bible-study.jpg" alt="#biblestudy" />
     <a class="lazyImage" href="images/image-slider-4.jpg" title="">Slide 4</a>
+  </div>
+  <div id="biblestudy" style="display: none;">
+    Join our Weekly Bible Study @<a href="https://www.google.com/maps/place/1120+5th+St+SE,+Minneapolis,+MN+55414/@44.9824569,-93.238446,17z/dat\
+  a=!3m1!4b1!4m2!3m1!1s0x52b32d0d867d49b7:0xfb1c35546f49c8f6?hl=en">CRU House</a>. Need a ride? Feel free to email to nlf.campus@gmail.com or contact Yang Shuo @ 952-297-6289
   </div>
   <!--thumbnails-->
   <div id="thumbs">
     <div class="thumb">
-      <div class="frame"><img src="images/thumb1.jpg" /></div>
-      <div class="thumb-content"><p>HTML Content</p>Thumbnails allows any HTML content</div>
+      <div class="frame"><img src="images/christmas-thumb.jpg" /></div>
+      <div class="thumb-content"><p>Who are we?</p>Young Chinese Christians - most of us are students</div>
       <div style="clear:both;"></div>
     </div>
     <div class="thumb">
-      <div class="frame"><img src="images/thumb2.jpg" /></div>
-      <div class="thumb-content"><p>Customizable</p>Thumbnail style is customizable</div>
+      <div class="frame"><img src="images/Jesus-Cross-thumb.jpg" /></div>
+      <div class="thumb-content"><p>What we believe?</p>Our faith lies in the resurrection of Jesus Christ</div>
       <div style="clear:both;"></div>
     </div>
     <div class="thumb">
-      <div class="frame"><img src="images/thumb3.jpg" /></div>
-      <div class="thumb-content"><p>Variety of Layouts</p>Just a CSS tweak.</div>
+      <div class="frame"><img src="images/bible-study-thumb.jpg" /></div>
+      <div class="thumb-content"><p>Weekly Bible Study - Join us!</p>Let us study His words together!</div>
       <div style="clear:both;"></div>
     </div>
     <div class="thumb">
