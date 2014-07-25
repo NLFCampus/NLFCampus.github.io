@@ -14,8 +14,8 @@ var sliderOptions=
 	captionEffect: "rotate",
 	thumbnailsWrapperId: "thumbs",
 	m: false,
-	license: "b6t80"
-	//license: "b2i38"
+	//license: "b6t80"
+	license: "b2i38"
     };
 
 var imageSlider=new mcImgSlider(sliderOptions);
