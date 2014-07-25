@@ -8,7 +8,8 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : New Life Fellowship - Student Group
+# title : New Life Fellowship - Student Group
+title : 双城华人基督教会新生命团契校园组(NLF Campus)
 tagline: Site Tagline
 author :
   name : NLFCampus

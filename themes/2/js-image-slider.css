@@ -3,14 +3,14 @@
 /*slider frame*/
 #sliderFrame 
 {
-    width:920px;
+    width:930px;
     margin:0 auto; /*center-aligned*/
     padding:20px;
     box-shadow: 0 0 5px #BBB;border:1px solid #CCC; background-color:#FFF;
 }
 
 #slider, #slider div.sliderInner {
-    width:680px;height:306px;/* Must be the same size as the slider images */
+    width:690px;height:400px;/* Must be the same size as the slider images */
 }
 
 #slider {
@@ -119,7 +119,7 @@
     background:#FFF;
 }
 
-#thumbs img{border:1px solid #DDD; cursor:pointer; width:70px; height:44px;}
+#thumbs img{border:1px solid #DDD; cursor:pointer; width:70px; height:47.5px;}
 
 #thumbs .frame {float:left;padding:2px;border:1px solid #CCC;background:white;border-radius:3px;box-shadow:0 0 3px #BBB;font-size:0;line-height:0;}
 #thumbs .thumb-content {float:left;width:110px;padding-left:18px;}
