@@ -10,6 +10,15 @@ tagline: Supporting tagline
     <script src="themes/2/js-image-slider.js" type="text/javascript"></script>
 </head>
 
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+   var js, fjs = d.getElementsByTagName(s)[0];
+   if (d.getElementById(id)) return;
+   js = d.createElement(s); js.id = id;
+   js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=286591694835592&version=v2.0";
+   fjs.parentNode.insertBefore(js, fjs);
+ }(document, 'script', 'facebook-jssdk'));</script>
+
 <div id="sliderFrame">
   <div id="slider">
     <a href="https://www.facebook.com/groups/564531400284272/" target="_blank">
@@ -71,3 +80,5 @@ tagline: Supporting tagline
   <span> - {{ post.author }}</span></li>
   {% endfor %}
 </ul>
+
+<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fnlfcampus.github.io%2F&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=true&amp;share=true&amp;height=21&amp;appId=286591694835592" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px;" allowTransparency="true"></iframe>

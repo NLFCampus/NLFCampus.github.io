@@ -670,12 +670,12 @@ pre {
     width: 26.25em;
   }
   .the-header .logo a {
-    font-size: 36px; /* change font size of logo here! */
+    font-size: 30px; /* change font size of logo here! shuo */
     line-height: 36px;
     letter-spacing: -1px;
   }
   .the-header .nav-global {
-    margin-top: 0.5em; /* change margin between navgations and logo here! */
+    margin-top: 0.5em; /* change margin between navgations and logo here! shuo */
     letter-spacing: -0.31em;
     *letter-spacing: normal;
     word-spacing: -0.43em;
