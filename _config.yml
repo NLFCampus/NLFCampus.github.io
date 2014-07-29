@@ -116,7 +116,7 @@ JB :
   # Set 'provider' to false to turn sharing off globally.
   #
   sharing :
-    provider : all
+    provider : facebook
     facebook :
       appid : 123
       layout : button_count

@@ -57,10 +57,10 @@ facebook。
 
 如果你进入一个post，下面是两个截图：
 
-<img src="{{ site.baseurl }}/images/screenshot3.png" alt=""
+<img src="/images/screenshot3.png" alt=""
 height="500" width="600" align="middle" />
 
-<img src="{{ site.baseurl }}/images/screenshot2.png" alt=""
+<img src="/images/screenshot2.png" alt=""
 height="500" width="600" align="middle" />
 
 我们可以通过facebook登录然后发表评论，也可以把文章share到facebook上，
