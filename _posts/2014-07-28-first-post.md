@@ -44,7 +44,7 @@ blog-like website. 之后我就想利用同样的技术来给团契做一个网�
 
 下面是网站的一个截图：
 
-<img src="{{ site.baseurl }}/images/screenshot1.png" alt=""
+<img src="/images/screenshot1.png" alt=""
 height="600" width="800" align="middle" />
 
 网站的layout很简洁，首页上有一个滚动显示的image slider，有关于我们的介
