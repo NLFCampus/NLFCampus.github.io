@@ -22,11 +22,11 @@ tagline: Supporting tagline
 <div id="sliderFrame">
   <div id="slider">
     <a href="https://www.facebook.com/groups/564531400284272/" target="_blank">
-      <img src="images/slider-1-about-us.jpg" alt="" />
+      <img src="images/slider-1-about-us.jpg" alt="点击图片进入我们的Facebook主页" />
     </a>
     <a class="lazyImage" href="images/slider-2-bible-study.jpg" title="">Bible Study</a>
     <a href="http://www.tcccc.org/zh-hant/sermon_mand" target="_blank">
-      <img src="images/sermon2.jpg" alt="请点击图片进入讲道" />
+      <img src="images/sermon2.jpg" alt="点击图片进入讲道" />
     </a>
     <a class="lazyImage" href="images/weekly-verse.jpg" title="">Slide 4</a>
     <a class="lazyImage" href="images/prayer.jpg" title="">Slide 5</a>
@@ -74,7 +74,7 @@ tagline: Supporting tagline
   </br>
 </div>
 
-[双城华人基督教会](http://www.tcccc.org/)
+==> [双城华人基督教会](http://www.tcccc.org/)
 
 <ul class="posts">
   {% for post in site.posts limit: 5 %}
