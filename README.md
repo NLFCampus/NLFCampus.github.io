@@ -63,7 +63,7 @@ for more Markdown syntax that is supported by Github.
 
 {% highlight js %}
 
-var sliderOptions=
+  var sliderOptions=
     {
 	sliderId: "slider",
 	startSlide: 0,
