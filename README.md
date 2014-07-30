@@ -62,6 +62,7 @@ for more Markdown syntax that is supported by Github.
 `themes/2/js-image-slider.js`
 
 {% highlight js %}
+
 var sliderOptions=
     {
 	sliderId: "slider",
@@ -80,6 +81,7 @@ var sliderOptions=
 	m: false,
 	license: "b6t80"
     };
+	
 {% endhighlight %}
 
 all the parameters can be adjusted here.
