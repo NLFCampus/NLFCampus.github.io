@@ -2,7 +2,7 @@
 
 The website for the New Life Fellowship (campus group) of the
 [Twin City Chinese Christian Church](http://www.tcccc.org/). Welcome
-to visit the website and join us the seek the **truth of life** through
+to visit the website and join us to seek the **truth of life** through
 **Jesus Christ**.
 
 ## Quick start to making contributions 
@@ -30,7 +30,7 @@ made to the code so just refresh the page to see your modifications.
 ## Adding a post
 
 The file name of the post should strictly be:
-yyyy-mm-dd-some-title.md, for example:
+`yyyy-mm-dd-some-title.md`, for example:
 *2014-07-28-about-website.md*.
 
 The file is in [Markdown format](http://daringfireball.net/projects/markdown/).
@@ -53,5 +53,5 @@ copy and paste the content here.
 
 Please refer to
 [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-for more Markdown syntax.
+for more Markdown syntax that is supported by Github.
 
