@@ -20,7 +20,7 @@ machine:
 ```
 $ git clone https://github.com/NLFCampus/NLFCampus.github.io.git
 $ cd NLFCampus.github.io
-$ jekyll serve --watch`
+$ jekyll serve --watch
 ```
 
 There you go! Launch a browser and visit <http://localhost:4000/> and view
