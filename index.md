@@ -74,7 +74,7 @@ tagline: Supporting tagline
   </br>
 </div>
 
-==> [双城华人基督教会](http://www.tcccc.org/)
+==> [明尼苏达双城华人基督教会](http://www.tcccc.org/)
 
 <ul class="posts">
   {% for post in site.posts limit: 5 %}

@@ -99,3 +99,7 @@ all the parameters can be adjusted here.
 ### where to put the images
 
 `images`
+
+### where and how to modify the home/index page
+`index.md`
+
