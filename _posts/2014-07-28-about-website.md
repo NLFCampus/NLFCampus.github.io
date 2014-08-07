@@ -4,7 +4,7 @@ title: "关于团契网站以及我的一点想法"
 description: ""
 author: "杨硕"
 category: 团契事工
-tags: [网站，事工]
+tags: [网站事工]
 ---
 {% include JB/setup %}
 
