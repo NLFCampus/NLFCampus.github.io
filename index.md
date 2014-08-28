@@ -28,7 +28,7 @@ tagline: Supporting tagline
     <a href="http://www.tcccc.org/zh-hant/sermon_mand" target="_blank">
       <img src="images/sermon2.jpg" alt="点击图片进入讲道" />
     </a>
-    <a class="lazyImage" href="images/weekly-verse.jpg" title="">Slide 4</a>
+    <a class="lazyImage" href="images/picnic_400by700.png" title="">Slide 4</a>
     <a class="lazyImage" href="images/prayer.jpg" title="">Slide 5</a>
   </div>
   <div id="biblestudy" style="display: none;">
