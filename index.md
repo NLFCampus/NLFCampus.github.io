@@ -58,8 +58,8 @@ tagline: Supporting tagline
       <div style="clear:both;"></div>
     </div>
     <div class="thumb">
-      <div class="frame"><img src="images/walking-with-god.jpg" /></div>
-      <div class="thumb-content"><p>每周经文</p>在神的话语里我们与主同行</div>
+      <div class="frame"><img src="images/picnic_400by700.png" /></div>
+      <div class="thumb-content"><p>中国学生迎新会</p>期待你的加入</div>
       <div style="clear:both;"></div>
     </div>
 	<div class="thumb">
