@@ -59,7 +59,7 @@ tagline: Supporting tagline
     </div>
     <div class="thumb">
       <div class="frame"><img src="images/picnic_400by700.png" /></div>
-      <div class="thumb-content"><p>中国学生迎新会</p>期待你的加入</div>
+      <div class="thumb-content"><p>中国学生迎新会</p>期待你的加入(是9月6号，不是7号哦，sorry about that!)</div>
       <div style="clear:both;"></div>
     </div>
 	<div class="thumb">
