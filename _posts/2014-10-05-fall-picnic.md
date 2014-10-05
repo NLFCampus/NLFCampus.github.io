@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "2014秋季picnic视频"
 description: ""
