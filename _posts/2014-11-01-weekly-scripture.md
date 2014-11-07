@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "每周经文"
 description: ""
