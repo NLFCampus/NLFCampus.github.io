@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Camp Omega团契退修会"
 description: ""
